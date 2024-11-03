@@ -1,3 +1,4 @@
+//https://oj.vnoi.info/problem/cutseg
 #include <bits/stdc++.h>
 #define problem "test"
 #define ll long long
